@@ -4,5 +4,5 @@ Escrever uma carta, aproveitando o dia internacional da mulher, para praticar o 
 
 ## Observações
 
-- A branch text-format utiliza um modo mais simples, mais focado no estilo do texto.
-- A branch main deverá focar no posicionamento e alinhamento de blocos, inclusive, com atenção para suas dimensões.
+- A branch text-format utiliza um modo mais simples, com margens, alinhamento de texto e altura das linhas.
+- A branch main deverá focar no posicionamento e alinhamento de blocos, inclusive, com atenção para suas dimensões. A inteção é incluir outras propriedades, como flexbox (display: flex), float e padding para estudo.

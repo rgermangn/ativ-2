@@ -1,0 +1,25 @@
+body {
+    font-family: serif;
+    font-size: 16px;
+    margin: 50px 100px;
+    width: 500px;
+    
+}
+
+h1 {
+    font-size: 28px;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+p {
+    text-align: justify;
+    line-height: 1.2;
+    margin-bottom: 20px;
+}
+
+.encerramento {
+    text-align: right;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
